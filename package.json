@@ -1,0 +1,32 @@
+{
+  "name": "bigin",
+  "version": "1.0.0",
+  "description": "innovation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngPorto/bigin-innovation-app.git"
+  },
+  "keywords": [
+    "innovation"
+  ],
+  "author": "@ingporto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngPorto/bigin-innovation-app/issues"
+  },
+  "homepage": "https://github.com/IngPorto/bigin-innovation-app#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "jquery": "^3.4.1",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
